@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.9a69a318.css",
+    "main.js": "/test/static/js/main.a18af07b.js",
+    "static/media/mockup-concrete-wall-with-ornamental-plants-decoration-item-cabinet.jpg": "/test/static/media/mockup-concrete-wall-with-ornamental-plants-decoration-item-cabinet.33fb7ffdf4772d122276.jpg",
+    "index.html": "/test/index.html",
+    "main.9a69a318.css.map": "/test/static/css/main.9a69a318.css.map",
+    "main.a18af07b.js.map": "/test/static/js/main.a18af07b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a69a318.css",
+    "static/js/main.a18af07b.js"
+  ]
+}
